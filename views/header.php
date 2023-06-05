@@ -6,7 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./assets/css/bootstrap.css">
+     <link rel="stylesheet" href="./assets/css/datatables.css"> <!-- tablas  css-->
+    <link rel="stylesheet" href="./assets/css/all.css"> <!-- iconos css -->
+    <link rel="stylesheet" href="./assets/css/alertify.css"> <!-- alertas css-->
+    <link rel="stylesheet" href="./assets/css/styles.css">
+
     <script src="./assets/js/bootstrap.js"></script>
+    <script src="./assets/js/jquery-3.6.0.js"></script>
+    <script src="./assets/js/datatables.js"></script> <!-- tablas  js-->
+    <script src="./assets/js/all.js"></script> <!-- iconos  js-->
+    <script src="./assets/js/alertify.js"></script> <!-- alertas  js-->
     <title>Tienda Pokkemoon</title>
 </head>
 
